@@ -1,0 +1,20 @@
+{
+  "schema": "archived-mathematical-inputs-v1",
+  "sha256": {
+    "LICENSE": "fa9e8539a9046d070158a7cbb74c484704cbf2b162249e49210167277db5c678",
+    "LITERATURE.md": "87020909e33382ab9e318bc82b94e2a2f5d66a213da49bddb1abdcbbee4e2390",
+    "PROOF.md": "fb7aeac2dd18e66faf27bd6188ce851203069d4192a2b7d310bc59cbd43c39c6",
+    "README.md": "d40481c16e5ccb52279619a04fe3023ecf745499e46e1ed6d474eb546bb8fee0",
+    "SCOPE.md": "330f64dbbe6bf28c4e98d33cb3ffe96c8d230d93752f0d0713ea3145a3fc3706",
+    "SOURCE.md": "120cb90e3ff86cf6f5066b2de2e39f6aea5a8b6754702876977423adf3fbe16e",
+    "THIRD_PARTY.md": "463e9fd0429d435a7c7be68bda2bdc596582d6b1ee5693ffda176fa5cc41ea55",
+    "VERIFICATION.md": "c51365a976a9eb5463a28397f94a325f72a02da4249e7ef445650bf780ec557d",
+    "evidence/certificate.json": "ffafbf9afe44ac6006fd81609fabdad56db4f197de6afc81eaa672d7927de7b0",
+    "evidence/independent_certificate.json": "234a0ff25933ed06ecbb79066afc8987f8c5fc823c1176195cf298a7b115f0a0",
+    "evidence/review.json": "fba54bfca1dd697b9349b4983687a0c9705b6a11e5355a9f48fb90865ba8a141",
+    "independent_verify.py": "5238804fb973c75721ad4884c757eba8005e6de14c1e16adcb6120df618f0dc2",
+    "replay.py": "2499b7e7f0c2e720fbeead0e5a1df75f3ff95fd2f255c993ab1dc6f5186acd27",
+    "requirements.txt": "41b53ad5291a6a0fa9e52ce44f2f8acd57313cb22be680b980712da2c0542119",
+    "verify.py": "110bcc5291f5e6ce6179eeabb58825e3f7683514c5013080782bf55d24941779"
+  }
+}

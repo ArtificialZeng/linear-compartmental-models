@@ -17,12 +17,16 @@ The original programs are:
 
 ## Optional exact verification notes
 
-Two self-contained additions use the same state-space and coefficient-map
+Self-contained additions use the same state-space and coefficient-map
 conventions and run independently of the interactive programs:
 
 - [Two-leak directed-cycle fibers](verification/cycle-global-fibers/README.md):
   explicit inverse branches, generic complex degree `p! (n-p)!`, and an exact
   root-interval criterion counting strictly positive parameter vectors.
+- [Arbitrary-leak retained-root tree sensors](verification/tree-sensor-linkages/README.md):
+  the maximum number q of vertex-disjoint observation-to-leak paths gives
+  generic rank `2n-2+q`, ambiguity dimension `L-q`, and the complete local
+  placement criterion `q=L`. This extends the two-leak corollary below.
 - [Two-leak bidirected-tree sensors](verification/tree-two-leak-sensors/README.md):
   a criterion for one additional calibrated output to restore generic local
   identifiability while retaining the root input and output. The two relevant
